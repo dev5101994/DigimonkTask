@@ -5,6 +5,7 @@ import Front from './Front';
 import Login from './Login';
 import Register from './Register';
 import { ToastContainer } from 'react-toastify';
+import Contact from './Contact';
 function App() {
   return (
     <div className="App">
@@ -14,6 +15,7 @@ function App() {
           <Route path='/' element={<Front />}></Route>
           <Route path='/login' element={<Login />}></Route>
           <Route path='/register' element={<Register />}></Route>
+          <Route path='/contact' element={<Contact />}></Route>
         </Routes>
       </BrowserRouter>
 

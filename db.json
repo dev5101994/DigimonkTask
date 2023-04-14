@@ -1,16 +1,6 @@
 {
   "user": [
     {
-      "id": "admin",
-      "name": "admin",
-      "password": "admin",
-      "email": "admin@gmail.com",
-      "phone": "111111",
-      "country": "india",
-      "address": "admin",
-      "gender": "female"
-    },
-    {
       "id": "hello",
       "name": "hello",
       "password": "hello",
@@ -18,6 +8,56 @@
       "phone": "99999999999999",
       "country": "india",
       "address": "jasmine",
+      "gender": "male"
+    },
+    {
+      "id": "user",
+      "name": "user",
+      "password": "user",
+      "email": "user@gmail.com",
+      "phone": "9999999999999",
+      "country": "india",
+      "address": "jas",
+      "gender": "female"
+    },
+    {
+      "id": "Devansh",
+      "name": "Devansh",
+      "password": "Devansh",
+      "email": "devansh@gmail.com",
+      "phone": "9685016711",
+      "country": "india",
+      "address": "jasmine 29 Bhopal",
+      "gender": "male"
+    },
+    {
+      "id": "users",
+      "name": "users",
+      "password": "users",
+      "email": "users@gmail.co",
+      "phone": "9074759733",
+      "country": "india",
+      "address": "Jasmine 88 bhopal",
+      "gender": "male"
+    },
+    {
+      "id": "admin",
+      "name": "admin",
+      "password": "admin",
+      "email": "admin@gmail.com",
+      "phone": "9074759755",
+      "country": "india",
+      "address": "Bhopal",
+      "gender": "male"
+    },
+    {
+      "id": "admins",
+      "name": "admins",
+      "password": "admins",
+      "email": "admins@gmail.com",
+      "phone": "968501654",
+      "country": "usa",
+      "address": "bhopal Indus",
       "gender": "male"
     }
   ]

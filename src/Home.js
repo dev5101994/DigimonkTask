@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import View from './View'
 import { BsSearch } from 'react-icons/bs';
+import Contact from './Contact';
 // getting the values of local storage
 const getDatafromLS = () => {
     const data = localStorage.getItem('books');
@@ -100,6 +101,7 @@ function Home() {
                 </div>
 
             </div>
+            <Contact />
         </div>
     )
 }
